@@ -1,2 +1,2 @@
 # Table
-![Overview] Information Table.png
+![Overview] (./images/Information Table.png)
